@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2><span style="font-size: medium;">Khaki - HTML E-commerce Online Shop</span></h2>
 <table class="post-table">
 <thead>
@@ -79,3 +80,7 @@
  	<li>product page</li>
  	<li>stock page</li>
 </ul>
+=======
+# BrolfTech
+This Is Modern E-commerce Marketplace built with HTML, CSS and JavaScript Technologies.
+>>>>>>> a046152d6e8fa5d22ec06a1812c634ccba59b1cd
